@@ -16,6 +16,14 @@
 ```
 git clone 
 ```
+
+* Install / move font 
+```
+cp font/KakaoRegular.ttf /Library/Fonts/KakaoRegular.ttf 
+```
+
+* Add your openai key 
+
 * Create and activate a new virtual env
 ```
 cd streaming-metrics
