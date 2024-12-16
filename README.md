@@ -5,8 +5,10 @@
 - [Plotly](https://plotly.com/python/)
 - [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
 - [Pandas](https://pandas.pydata.org/)
-= [Data.ai](https://www.data.ai/account/login/)
+- [Data.ai](https://www.data.ai/account/login/)
+- DATABASE아직 구축 못해서 odin aos file 2022년도 1월부터 odin, 아키에이지워, 아레스, lineageM 모두 합친 데이터
 
+- 
 #### Deployment
 
 #### Running Locally 
